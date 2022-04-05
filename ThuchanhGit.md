@@ -9,3 +9,5 @@
 + Đồng bộ giữa các Repository: Ngoài Repository chung (chính là Remote Repository) thì Bob và James đều có các Repository riêng của mình (chính là Local Repository), do đó phải có cơ chế để đồng bộ giữa các Repository này với nhau, tức là giữ cho mã nguồn ở các Repository này giống hệt nhau. Hay nói cách khác, tất cả các Repository này là những bản sao của nhau.
 + Snapshot: Là toàn bộ mã nguồn tại một thời điểm
 + CodeGym Huế
+=======
++ day la dong 11 sua doi
