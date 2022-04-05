@@ -8,3 +8,5 @@
 + Quản lý Phiên bản mã nguồn: Git không chỉ giúp chúng ta quản lý mã nguồn mà còn quản lý phiên bản mã nguồn. Tức là giúp chúng ta làm chủ được từng thay đổi của mã nguồn theo thời gian.
 + Đồng bộ giữa các Repository: Ngoài Repository chung (chính là Remote Repository) thì Bob và James đều có các Repository riêng của mình (chính là Local Repository), do đó phải có cơ chế để đồng bộ giữa các Repository này với nhau, tức là giữ cho mã nguồn ở các Repository này giống hệt nhau. Hay nói cách khác, tất cả các Repository này là những bản sao của nhau.
 + Kiểm tra lỗi conflict tại đây
++ Snapshot: Là toàn bộ mã nguồn tại một thời điểm
+
